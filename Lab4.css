@@ -1,0 +1,46 @@
+h1{
+	color: steelblue;
+	font-size: 30px;
+	text-decoration: underline;
+	font-family: arial, helvevetica, sans-serif;
+}
+p{
+	text-decoration: overline;
+	color: #800000;
+	font-weight: bold;
+}
+.a{
+	border: 2px dotted mediumpurple;
+	background-color: burlywood;
+	width: 300px;
+	height: auto;
+
+}
+.b{
+	margin-top: 5px;
+	font-size: 8px;
+	border: 2px dotted honeydew;
+	width: 200px;
+	height: 20px;
+}
+.button{
+	display: inline-block;
+	width: 150px;
+	height: 40px;
+	background-color: sienna;
+	border: 2px solid navy;
+	border-radius: 8px;
+	color: #FFFFCC;
+	margin-top: 5px;
+	padding: 5px 10px;
+    font-size: 18px;
+
+}
+.c:hover{
+	background: rebeccapurple;
+	transition: all .3s ease;
+}
+
+.c{
+	margin-top: 10px;
+}
